@@ -2,8 +2,6 @@
 # coding: utf-8
 
 # In[ ]:
-
-
 import copy
 
 def ac3(csp, arcs_queue=None, current_domains=None, assignment=None):
