@@ -2,7 +2,6 @@
 # coding: utf-8
 
 # In[20]:
-
 import numpy as np
 import copy
 
